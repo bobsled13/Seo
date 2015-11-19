@@ -1,0 +1,49 @@
+body
+{
+	background-color:purple;
+	color:white;
+	background-image:url("skulls.png");
+}
+
+h1
+{
+	color:grey;
+}
+
+u
+{
+	color:black;
+}
+
+.redcolor
+{
+	color:red;
+}
+
+.bluecolor
+{
+	color:blue;
+}
+
+span
+{
+	font-style:italic;
+	color:green;
+}
+
+.myspan
+{
+	text-decoration: underline;
+	cursor:pointer;
+}
+
+div
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+	padding: 25px
+	border;
+	border-radius: 25px;
+	
+}
